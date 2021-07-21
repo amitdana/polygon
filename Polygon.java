@@ -3,7 +3,6 @@ import java.util.Scanner;
 /** 
 * Using a class represents a polygon using an array of points and a number of vertices
 * 
-* @author Amit Dana (322519604)
 * @version 04.12.2020
 */
 
