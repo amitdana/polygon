@@ -2,7 +2,6 @@ import java.util.Scanner;
 /** 
 * using a class to use the x, y coordinates and represent them using alpha and radius
 * 
-* @author Amit Dana (322519604)
 * @version 16.11.2020
 */
 
