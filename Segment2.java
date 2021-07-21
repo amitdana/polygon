@@ -2,7 +2,6 @@ import java.util.Scanner;
 /** 
 * using a class represents a line (parallel to the x-axis) using a center point and length
 * 
-* @author Amit Dana (322519604)
 * @version 16.11.2020
 */
 
